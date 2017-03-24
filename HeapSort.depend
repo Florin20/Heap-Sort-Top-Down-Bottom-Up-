@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1490360177 source:c:\users\florin\desktop\scoala\af\heapsort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
